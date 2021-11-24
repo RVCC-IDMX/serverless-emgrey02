@@ -1,13 +1,13 @@
-# Serverless Functions
+# Dad Joke Generator
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+### Description:
 
-**Description:**
+This website was made by following a tutorial by Dave Gray in which we build serverless functions with JavaScript and utilize continuous deployment with GitHub and Netlify. The result is a page that retrieves dad jokes from [icanhazdadjoke](https://icanhazdadjoke.com/) and reloads every 10 seconds with a new one.
 
-In this tutorial, we build serverless functions with JavaScript and utilize continuous deployment with GitHub and Netlify.
-
+### Tutorial:
 YouTube: [Serverless Functions](https://youtu.be/J7RKx8f4Frs)
 
-### Academic Honesty
+✅ [Check out Dave Gray's YouTube Channel with all of his tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+
+
